@@ -1,0 +1,31 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+/*barra navegacion*/
+.navbar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0,0,0,0.5);
+  position: sticky;
+  top: 0;
+
+}
+.navbar ul{
+  display: flex;
+  list-style: none;
+  margin: 20px 0px;
+}
+.navbar ul li{
+  font-family: arial;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+.navbar ul li a{
+  text-decoration: none;
+  color: white;
+  padding: 8px 25px;
+}
