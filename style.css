@@ -9,7 +9,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(2, 10, 121, 0.9);
   position: sticky;
   top: 0;
 
@@ -42,8 +42,8 @@
   display: flex;
   flex-direction: column;
   background-color: rgba(0, 53, 151, 0.692);
-  height: 540px;
-  width: 1450px;
+  height: 600px;
+  width: px;
   justify-content: center;
   align-items: center;
   color: white;
@@ -72,7 +72,7 @@
 .headings{
   font-family: roboto;
   font-size: 3rem;
-  align text: center;
+  text-align: center;
   margin: 40px 0px;
 }
 
@@ -87,6 +87,73 @@
   cursor: pointer;
   background-color: white;
   color: black;
-  box-shadow: 0 0 5px white, 0 0 15px white;
+  box-shadow: 0 0 5px white, 0 0 10px white 0, 0, 15px white;
   font-weight: bold;
 }
+
+/* about section*/
+
+#about{
+  display: flex;
+  font-family: 'Roboto';
+  flex-direction: column;
+  box-sizing: border-box;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+#pic{
+  display: flex;
+}
+#pic img{
+  width: 575px;
+  height: 400px;
+}
+#intro{
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  padding: 10px;
+}
+#intro h2{
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+/*portfolio section*/
+#portfolio{
+  display:flex;
+  flex-direction: column;
+  background-color: rgba(2, 10, 121, 0.9);
+  color: white;
+  align-items: center;
+  padding: 20px;
+
+}
+.first{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  box-sizing: border-box;
+
+}
+.first img:hover{
+  cursor: pointer;
+  box-shadow: 0 0 25px rgba(250, 248, 248, 0.829);
+  transform: scale(1.2);
+}  
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  box-sizing: border-box;
+}
+.gallery img{
+  width: 360px;
+  height: 240px;
+  margin: 10px;
+}
+.gallery img:hover{
+  cursor: pointer;
+  box-shadow: 0 0 25px rgba(250, 248, 248, 0.829);
+  transform: scale(1.2);
+}  
