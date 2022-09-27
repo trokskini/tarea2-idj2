@@ -4,7 +4,7 @@
 
 - Decidí personalizarlo con el objeto de reforzar mi marca personal y colocarlo en lengua inglesa por motivos de mi conveniencia.
 - Seguí los pasos que consideré necesarios para dar cumplimiento a los criterios de aceptación aclarando que no se me proporcionó código base de ningún tipo.
-![](https://scontent.fntr11-1.fna.fbcdn.net/v/t39.30808-6/308718555_6036922372989067_4218597830571562318_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=T6mZZlzwoCkAX_lbo6O&_nc_ht=scontent.fntr11-1.fna&oh=00_AT8RKce-Ib2AEjtfH-olwCpIO2WSRhlQ49lOf7xrmD69Lw&oe=6332BA61)
+![](https://scontent.fntr11-1.fna.fbcdn.net/v/t39.30808-6/309587557_6046090932072211_2403903654157152367_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=lE-YICVLPBgAX8tNlyF&_nc_ht=scontent.fntr11-1.fna&oh=00_AT8dwhMBYrEWn2KQpyxmczx2ONFgWl8KWrUxWaskqogE9g&oe=63374964)
 ## Desarrollo del proyecto.
 - Trabaje el proyecto en html y css para hacer responsivo y atractivo a la vista.
 ![](https://scontent.fntr11-1.fna.fbcdn.net/v/t39.30808-6/308772846_6036935979654373_7451625269294580810_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=j8LbGtV40iwAX9rn-2i&_nc_ht=scontent.fntr11-1.fna&oh=00_AT8Nx1BBcUp4sfJShtom7-IuP7XbI103ZAZHzTAdnTVzVg&oe=63334AA7)
