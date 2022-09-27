@@ -12,4 +12,10 @@
 ![](https://scontent.fntr11-1.fna.fbcdn.net/v/t39.30808-6/308719191_6036943196320318_4939573875332882330_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=wLPjd_tBMgoAX8DUUde&_nc_ht=scontent.fntr11-1.fna&oh=00_AT9nMvzoe7-cKHsEBfmjldo0-U1M4rtJtWMV9ZSTPhjqhQ&oe=6332427F)
 ## Resultado.
 ###### Un portafolio listo para ir creciendo y adaptarse a las tendencias de programación y estética conforme pase el tiempo.
+
+## repositorio y página.
+Repositorio:
+https://github.com/trokskini/tarea2-portfolioidj
+Página:
+https://trokskini.github.io/tarea2-portfolioidj/
 Gracias por leer!
